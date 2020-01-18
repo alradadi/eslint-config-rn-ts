@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:abdullah-sr/eslint-config-rn-ts.git"
+    "url": "git@github.com:alradadi/eslint-config-rn-ts.git"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.16.0",
