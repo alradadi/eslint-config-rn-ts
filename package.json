@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-rn-ts",
+  "version": "1.0.0",
+  "description": "ESLint config for React Native projects written in Typescript",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:abdullah-sr/eslint-config-rn-ts.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "babel-eslint": "^10.0.3",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "eslint-plugin-react-native": "^3.8.1",
+    "eslint-plugin-simple-import-sort": "^5.0.0",
+    "prettier": "^1.19.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  }
+}
