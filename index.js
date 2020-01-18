@@ -31,12 +31,11 @@ module.exports = {
     root: true,
 
     rules: {
-        "sort-imports": "off",
-        "import/order": "off",
-        '@typescript-eslint/explicit-function-return-type': 'off',
-        '@typescript-eslint/no-use-before-define': 'off',
-        '@typescript-eslint/no-non-null-assertion': 'off',
         '@typescript-eslint/camelcase': 'off',
+        '@typescript-eslint/explicit-function-return-type': 'off',
+        '@typescript-eslint/no-non-null-assertion': 'off',
+        '@typescript-eslint/no-use-before-define': 'off',
+        "import/order": "off",
         'import/no-unresolved': 'off',
         'prettier/prettier': ['error', {
             bracketSpacing: true,
@@ -44,13 +43,19 @@ module.exports = {
             singleQuote: true,
             trailingComma: 'all',
         }],
-        'react-native/no-unused-styles': 'error',
-        'react-native/split-platform-components': 'error',
-        'react-native/no-inline-styles': 'error',
+        'react/display-name': 'off',
+        'react/prop-types': 'off',
+        'react-hooks/exhaustive-deps': 'warn',
+        'react-hooks/rules-of-hooks': 'error',
         'react-native/no-color-literals': 'error',
+        'react-native/no-inline-styles': 'error',
+        'react-native/no-single-element-style-arrays': 'error',
         // this one is broken and triggers a false positive with new lines
         // 'react-native/no-raw-text': 'error',
+        'react-native/no-unused-styles': 'error',
+        'react-native/split-platform-components': 'error',
         "simple-import-sort/sort": "error",
+        "sort-imports": "off",
     },
 
     settings: {
