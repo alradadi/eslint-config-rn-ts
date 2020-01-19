@@ -4,6 +4,7 @@
   "description": "ESLint config for React Native projects written in Typescript",
   "main": "index.js",
   "license": "MIT",
+  "keywords": ["react native", "typescript", "eslint", "config"],
   "repository": {
     "type": "git",
     "url": "git@github.com:alradadi/eslint-config-rn-ts.git"
