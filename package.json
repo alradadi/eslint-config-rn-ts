@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rn-ts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint config for React Native projects written in Typescript",
   "main": "index.js",
   "license": "MIT",
