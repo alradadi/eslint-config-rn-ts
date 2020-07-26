@@ -9,6 +9,7 @@ Includes rules for:
 * [react](https://github.com/yannickcr/eslint-plugin-react)
 * [react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 * [react-native](https://github.com/intellicode/eslint-plugin-react-native)
+* [react-native-community](https://www.npmjs.com/package/@react-native-community/eslint-config)
 * [prettier](https://github.com/prettier/eslint-config-prettier)
 * [simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
 
