@@ -2,6 +2,7 @@
   "name": "eslint-config-rn-ts",
   "version": "1.2.0",
   "description": "ESLint config for React Native projects written in Typescript",
+  "author": "abdul@radadi.me",
   "files": [
     "index.js",
     "README.md"
